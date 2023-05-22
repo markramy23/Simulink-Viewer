@@ -89,5 +89,14 @@ It's a GUI that takes Simulink .mdl files which are represented as group of xml 
 
 
 
+## How to run
+
+you can run the application from the Simulink viewer batch file in the 
+[**dist folder**](https://github.com/markramy23/Simulink-Viewer/tree/main/Project/dist)
+
+First window will appear containing a button the allows the user to choose the mdl file he wants.
+
+After choosing the file another window will open
+containing the block diagram of the chosen file.
 
         
